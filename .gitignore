@@ -1,0 +1,4 @@
+stylegan2-ada-pytorch
+*.pkl
+.idea/
+.ipynb_checkpoints/
