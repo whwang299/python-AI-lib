@@ -1,10 +1,6 @@
-#tensorflow==2.5.0
 numpy
 matplotlib
 torch==1.9.0
 jupyter
-#torchvision
-#torchtext
-#torchaudio
-#pytorch-lightning==1.3.8 # conflicts with tensorflow 2.5.0
-#jax[cpu]
+transformers==4.9.1
+scikit-learn
