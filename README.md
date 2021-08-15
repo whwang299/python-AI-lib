@@ -7,4 +7,10 @@
 `pip install -r requirements.txt`
 
 ## Colab file
-- [ver 0.1](https://colab.research.google.com/drive/1L4zrW6n184dsDSgmMZJQr3nbdScK0CCh?usp=sharing)
+- [ver 0.1](https://colab.research.google.com/drive/1-aPPHeh1TWDR6sMa7Ac5Tt8UGAStegFl?usp=sharing)
+ 
+
+
+
+
+ [.](https://colab.research.google.com/drive/1L4zrW6n184dsDSgmMZJQr3nbdScK0CCh?usp=sharing)
